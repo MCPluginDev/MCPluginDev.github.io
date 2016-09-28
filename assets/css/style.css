@@ -25,3 +25,6 @@ a, a:visited {
 	text-decoration: none;
 	color: #0A0A0A;
 }
+a:hover {
+	background: #f5ffd1;
+}
